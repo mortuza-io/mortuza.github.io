@@ -1,8 +1,9 @@
-# Mahin Mortuza
+# CSE Undergrad
 
-#### CSE Undergrad | Software Developer | Open Source Enthusiast
+#### Software Developer | Open Source Enthusiast
 
-#### Technical Skills: Python, C++, Java, JavaScript, SQL Server, React, Django, Git, GitHub
+#### Technical Skills: 
+Python, C++, Java, JavaScript, SQL Server, React, Django, Git, GitHub
 
 ## About Me
 Hi, I'm **Mahin Mortuza**, also known as **heroshi**. I am a Computer Science and Engineering undergraduate student at **University of Asia Pacific (UAP)** from Bangladesh. I enjoy building modern software, learning new technologies, and creating practical projects that solve real problems.
@@ -32,16 +33,6 @@ A social-impact database project designed to help manage disaster information, r
 
 **Tech Used:** Microsoft SQL Server, T-SQL, ER Diagram, Database Schema Design
 
-### Lost and Found Management System for University
-A university-based system for tracking lost items, found items, claim requests, verification, and handover records. It helps students report lost items and makes the recovery process easier.
-
-**Tech Used:** SQL Server, Database Design, Project Planning
-
-### Telegram Bot Projects
-Developed and planned several Telegram bot systems including anti-scam bots, reward claiming bots, giveaway management bots, credit systems, key generation, registration systems, admin panels, and inline keyboard-based user interfaces.
-
-**Tech Used:** Python, python-telegram-bot, JSON, Bot Automation
-
 ## Technical Skills
 
 ### Languages
@@ -59,34 +50,10 @@ Developed and planned several Telegram bot systems including anti-scam bots, rew
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-## GitHub Stats
-
-![Mahin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mortuza-io&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mortuza-io&layout=compact&theme=tokyonight&hide_border=true)
-
-## GitHub Achievements
-
-![Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)
-![Quickdraw](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png)
-
 ## Contact
 
 - **GitHub:** [mortuza-io](https://github.com/mortuza-io)
 - **Location:** Bangladesh
 - **Portfolio / GitHub Pages:** [mortuza-io.github.io](https://mortuza-io.github.io)
 
-## Support
-
-If you find my work helpful, consider supporting me.
-
-**TON Wallet:**
-
-```text
-UQAKPeZfkdZfcRiMhx9PD6WWMkbVor6KnNDMfUEV_ORI3LDc
-```
-
----
-
-![Visitor Count](https://komarev.com/ghpvc/?username=mortuza-io&style=flat-square&color=blue)
 
